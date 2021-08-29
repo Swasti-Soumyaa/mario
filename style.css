@@ -1,0 +1,53 @@
+.heading{
+    width: 100%;
+    text-align: left;
+    background-color: red;
+    color: aliceblue;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.instruct{
+    background-color: white;
+    color: red;
+    float: right;
+}
+
+.big_img{
+    width: 100%;
+
+}
+
+.stat{
+    background-color: rgb(131, 3, 73);
+    color:teal ;
+    font-size: 22px;
+}
+
+body{
+    text-align: center;
+}
+
+.start{
+    background-color: rgb(0, 19, 102);
+    color:rgb(174, 255, 255) ;
+    font-size: 22px;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.instructions_image{
+    width: 45%;
+    display: inline;
+}
+
+video{
+    background-image:url("game_console.png");
+    background-position: center;
+    background-size: cover;
+    padding: 25px;
+}
